@@ -1,0 +1,33 @@
+p {
+	font-family: sans-serif;
+}
+
+#myFirstDiv {
+	background-color: orange;
+	color: rgba(255,255,255,1);
+	margin: 10px;
+	padding: 15px;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+
+img {
+	height: 30px;
+	width: 30px;
+}
+
+li a {
+	color: white;
+}
+
+.notTestClass {
+	margin-left: 10px;
+}
+
+.hasBackgroundImage {
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	background-image: url('http://www2.warwick.ac.uk/insite/news/intnews2/cusp_bloomberg_praise/cuspcropped.gif');
+	background-size: contain;
+}
